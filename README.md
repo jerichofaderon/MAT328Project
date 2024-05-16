@@ -1,5 +1,5 @@
 # Motor Vehicle Collisions
-My project for Mat 328 where I'll be uploading the various steps and data from Milestones 1 to 3!
+My project for MAT 328 where I'll be uploading the various steps and data from Milestones 1 to 3!
 
 
 Github link: https://github.com/skkooz
